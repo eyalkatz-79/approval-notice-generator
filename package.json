@@ -1,0 +1,10 @@
+{
+  "name": "approval-notice-generator",
+  "version": "1.0.0",
+  "description": "Brick & Mortar Application Approval Notice Generator",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "googleapis": "^140.0.0",
+    "google-auth-library": "^9.0.0"
+  }
+}
